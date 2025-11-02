@@ -30,4 +30,3 @@ databases:
   - name: cocktail-db
     databaseName: cocktails
     plan: free
-    user: postgres
